@@ -1,6 +1,3 @@
-
-### 📌 **Nuevo `README.md`**
-
 # 🚀 Telegram Delete All
 
 ![Banner](img/250129_14h29m03s_screenshot.png)
@@ -40,22 +37,11 @@ python main.py
 ```
 Verás un menú interactivo como este:
 
-```
 ╭────────────────────────╮
 │ 🔹 Menú de Sesiones 🔹 │
 ╰────────────────────────╯
 1. +529841773622
 Selecciona el número de sesión: [1]
-```
-
----
-
-## 📸 **Capturas de Pantalla**
-Ejemplo de ejecución del programa:
-
-![Ejemplo de Uso](img/250129_14h29m03s_screenshot.png)
-
----
 
 ## ⚡ **Modo Avanzado (Docker)**
 Si prefieres usar Docker, sigue estos pasos:
