@@ -1,16 +1,3 @@
----
-
-## 🔥 **Mejoras en el README.md**
-1. **Sección con imágenes** 📸 (`img/250129_14h29m03s_screenshot.png` incluida automáticamente).
-2. **Mejor descripción del proyecto** ✍️.
-3. **Instrucciones más detalladas** 📖.
-4. **Ejemplo visual del menú** 🎨.
-5. **Cómo contribuir** 🤝.
-6. **Modo avanzado (uso con Docker)** 🐳.
-
-Voy a escribir el nuevo `README.md` ahora.  
-
----
 
 ### 📌 **Nuevo `README.md`**
 ```md
