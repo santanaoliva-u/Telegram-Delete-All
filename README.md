@@ -1,13 +1,11 @@
 
 ### 📌 **Nuevo `README.md`**
-```md
+
 # 🚀 Telegram Delete All
 
 ![Banner](img/250129_14h29m03s_screenshot.png)
-
 📱 **Telegram Delete All** es una herramienta avanzada para gestionar y eliminar chats, grupos y canales en Telegram.  
 Permite limpiar tu cuenta de manera eficiente con un menú interactivo y comandos fáciles de usar.
-
 ## 🌟 **Características**
 ✅ Gestión de múltiples sesiones de Telegram  
 ✅ Eliminación masiva de chats, grupos y canales  
@@ -16,24 +14,22 @@ Permite limpiar tu cuenta de manera eficiente con un menú interactivo y comando
 ✅ Estadísticas de interacción con tus chats  
 ✅ Soporte para actualizar API ID y Hash  
 
----
-
 ## 🛠 **Instalación**
 ### 1️⃣ **Requisitos**
 - Python **3.8+**
 - Tener `pip` instalado
 - Una cuenta de **Telegram** con acceso a la API
-
 ### 2️⃣ **Clona el repositorio**
 ```bash
 git clone https://github.com/santanaoliva-u/Telegram-Delete-All.git
 cd Telegram-Delete-All
 ```
-
 ### 3️⃣ **Instala las dependencias**
 ```bash
 pip install -r requirements.txt
 ```
+
+
 
 ---
 
